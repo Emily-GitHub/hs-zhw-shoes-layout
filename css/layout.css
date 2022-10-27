@@ -25,3 +25,35 @@
 /* Positioning Classes */
 
 
+.column {
+  display: inline-block;
+  width: 33%;
+  position: relative;
+}
+
+.shadow {
+  margin: 5px;
+}
+
+.double {
+  width: 198%;
+  position: absolute; 
+  bottom: -30px;
+
+}
+
+#details .wrapper {
+  display: inline-block;
+  width: 100%;
+}
+
+.column2 {
+  display: inline-block;
+  width: 20%;
+}
+
+
+
+
+
+
